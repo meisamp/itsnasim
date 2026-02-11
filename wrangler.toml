@@ -1,0 +1,8 @@
+name = "itsnasim"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "e1d836db9e0d437a8c4fd43ced464e1a" }
+]
